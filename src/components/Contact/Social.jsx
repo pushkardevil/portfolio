@@ -21,7 +21,7 @@ const Social = () => {
           <ul className="contact-social-links">
             <li className="contact-icons">
               <a
-                href="https://github.com/shravni21"
+                href="https://github.com/pushkardevil"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color  contact-social-icons"
@@ -31,7 +31,7 @@ const Social = () => {
             </li>
             <li className="contact-icons">
               <a
-                href="https://instagram.com/shravni_wakde"
+                href="https://www.instagram.com/im.pushkar044/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color  contact-social-icons"
@@ -41,7 +41,7 @@ const Social = () => {
             </li>
             <li className="contact-icons">
               <a
-                href="https://www.linkedin.com/in/shravni-wakde-127bb9216/"
+                href="https://www.linkedin.com/in/pushkar-kumar-939449209/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color  contact-social-icons"
@@ -51,7 +51,7 @@ const Social = () => {
             </li>
             <li className="contact-icons">
               <a
-                href="https://discordapp.com/users/882868574841102387"
+                href="https://discord.com/channels/1137299174010912828/1137299174010912837"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color  contact-social-icons"
