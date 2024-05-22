@@ -49,7 +49,7 @@ const About = () => {
               as well as have knowledge in languages such as Python,
               <b className="yellow"> SQL, Javascript.</b>
               <br />
-              <br />I am also interested in building new
+              <br />I am also interested in building ne
               <b className="yellow"> Web Technologies and Products, </b>
               as well as exploring areas related to
               <b className="yellow"> Technology.</b>
